@@ -3,7 +3,7 @@
 <p align="center">Monorepo for typescript-eslint: powerful static analysis for JavaScript and TypeScript</p>
 
 <p align="center">
-    <img src="https://github.com/typescript-eslint/typescript-eslint/workflows/CI/badge.svg" alt="CI" />
+    <img src="https://github.com/Unity-Billal-mesloub/typescript-eslint/workflows/CI/badge.svg" alt="CI" />
     <a href="https://opencollective.com/typescript-eslint"><img src="https://opencollective.com/typescript-eslint/all/badge.svg?label=financial+contributors&style=flat-square" alt="Financial Contributors on Open Collective" /></a>
     <a href="https://www.npmjs.com/package/@typescript-eslint/typescript-estree"><img src="https://img.shields.io/npm/dm/@typescript-eslint/typescript-estree.svg?style=flat-square" alt="NPM Downloads" /></a>
     <a href="https://codecov.io/gh/typescript-eslint/typescript-eslint"><img alt="Codecov" src="https://img.shields.io/codecov/c/github/typescript-eslint/typescript-eslint.svg?style=flat-square"></a>
@@ -30,9 +30,9 @@
 
 This project exists thanks to the awesome people who contribute code and documentation:
 
-<a href="https://github.com/typescript-eslint/typescript-eslint/graphs/contributors"><img alt="Gallery of all contributors' profile photos" src="https://opencollective.com/typescript-eslint/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/Unity-Billal-mesloub/typescript-eslint/graphs/contributors"><img alt="Gallery of all contributors' profile photos" src="https://opencollective.com/typescript-eslint/contributors.svg?width=890&button=false" /></a>
 
-🙏 An extra special thanks goes out to the wonderful people listed in <https://github.com/typescript-eslint/typescript-eslint/graphs/contributors>.
+🙏 An extra special thanks goes out to the wonderful people listed in <https://github.com/Unity-Billal-mesloub/typescript-eslint/graphs/contributors>.
 
 ## Financial Contributors
 
