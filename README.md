@@ -26,14 +26,6 @@
 </p>
 <!-- markdownlint-enable MD033 -->
 
-## Code Contributors
-
-This project exists thanks to the awesome people who contribute code and documentation:
-
-<a href="https://github.com/Unity-Billal-mesloub/typescript-eslint/graphs/contributors"><img alt="Gallery of all contributors' profile photos" src="https://opencollective.com/typescript-eslint/contributors.svg?width=890&button=false" /></a>
-
-🙏 An extra special thanks goes out to the wonderful people listed in <https://github.com/Unity-Billal-mesloub/typescript-eslint/graphs/contributors>.
-
 ## Financial Contributors
 
 In addition to submitting code and documentation updates, you can help us sustain our community by becoming a financial contributor [[Click here to contribute - every little bit helps!](https://opencollective.com/typescript-eslint/contribute)]
